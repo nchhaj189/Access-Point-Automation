@@ -16,9 +16,11 @@ A python script that automates setting up an access point without the need for a
   
   5. Plug in the access point and boot in ROM mode.
   
-  6. Run the script using the following command
+  6. Find the process id for putty, which can be done by looking in task manager.
+  
+  7. Run the script using the following command
   ```
   python accesspoint.py
   ```
   
-  7. Let the program do the rest of the work!
+  8. Let the program do the rest of the work!
